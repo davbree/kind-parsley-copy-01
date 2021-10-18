@@ -33,7 +33,7 @@ models:
       - name: text-styles
         label: Text styles
       - name: color-palettes
-        label: Color Palettes
+        label: Colojr Palettes
     fields:
       - type: object
         name: h1
